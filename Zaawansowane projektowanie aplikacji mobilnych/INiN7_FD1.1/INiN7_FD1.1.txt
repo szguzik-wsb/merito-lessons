@@ -1,0 +1,57 @@
+
+1	Michał Hubert	Adamczewski	58147	
+2	Kacper Paweł	Baranowski	58988	
+3	Jakub	Brodnicki	60708	
+4	Maciej	Cantop	57649	
+5	Damian	Chajęcki	60470	
+6	Łukasz Andrzej	Ciskowski	56940	
+7	Paweł Czerniecki	Czerniecki	57653	
+8	Kacper	Dobrowolski	57657	
+9	Ewelina Weronika	Dośpiał	57658	
+10	Kacper Dominik	Gabis	56108	
+11	Marcin	Galera	49740	
+12	Błażej Mirosław	Huebner	57668	
+13	Patryk Rafał	Janiszewski	57670	
+14	Mateusz Mariusz	Jutrzenka	56113	
+15	Patryk	Kamiński	21448	
+16	Paweł Rafał	Kamrowski	61528	
+17	Maciej Stanisław	Kowalczyk	51079	
+18	Wiktor	Maciołek	57693	
+19	Oleksandra	Zakharchenko	56863
+
+Robimy PWA + RWD + SPA
+
+320 - 768
+769 - 1024
+1024 - 1280 
+
+Nuxt 3
+Biuro Obsługi Studenta
+CRUD + weryfikacja łącza - brak łącza = timeaout z referencją co 15 sekund do 10 razy - pozniej info ze zrobimy to po uzyskaniu polączenia z serwerem
+
+
+
+app.20230302.js
+app.js?version=20230302
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'
+
+
+
